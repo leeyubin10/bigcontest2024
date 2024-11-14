@@ -3,7 +3,7 @@
 
 <br/>
 
-## "LLM활용 제주도 맛집 추천 대화형 AI서비스 개발" **
+## LLM활용 제주도 맛집 추천 대화형 AI서비스 개발
 - __Data Sources__: shcard, jeju tourism, naver, Instagram
 - __Embedding__: intfloat/multilingual-e5-large-instruct
 - __Search API__: Naver API
