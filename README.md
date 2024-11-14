@@ -11,7 +11,7 @@ Reranker: ko-reranker
 LLM: Gemini 1.5 Flash
 Vector Indexing: FAISS
 
-<br/><br/>
+<br/>
 
 ## [Reference]
 - modules 폴더는 용량 제한으로 인해 구글드라이브에 업로드 후 링크 첨부합니다.
