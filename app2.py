@@ -28,7 +28,7 @@ index_path = os.path.join(module_path, 'faiss_index.index')
 embedding_array_path = os.path.join(module_path, 'embeddings_array_file.npy')
 
 # 임베딩 모델 로드
-device = "cuda:1" if torch.cuda.is_available() else "cpu"
+device = "cuda" if torch.cuda.is_available() else "cpu"
 model_name = "intfloat/multilingual-e5-large-instruct"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 embedding_model = AutoModel.from_pretrained(model_name).to(device)
