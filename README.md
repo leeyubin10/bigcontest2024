@@ -1,6 +1,8 @@
 # KAIT 주최 및 신한카드 주관 - 2024 빅콘테스트 생성형AI분야
 2024 bigcontest: Generative AI (Team: GPU 0번)
 
+<br/>
+
 ## "LLM활용 제주도 맛집 추천 대화형 AI서비스 개발" **
 Data Sources: shcard, jeju tourism, naver, Instagram
 Embedding: intfloat/multilingual-e5-large-instruct
@@ -9,6 +11,7 @@ Reranker: ko-reranker
 LLM: Gemini 1.5 Flash
 Vector Indexing: FAISS
 
+<br/><br/>
 
 ## [Reference]
 - modules 폴더는 용량 제한으로 인해 구글드라이브에 업로드 후 링크 첨부합니다.
