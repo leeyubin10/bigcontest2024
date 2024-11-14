@@ -4,12 +4,12 @@
 <br/>
 
 ## "LLM활용 제주도 맛집 추천 대화형 AI서비스 개발" **
-Data Sources: shcard, jeju tourism, naver, Instagram
-Embedding: intfloat/multilingual-e5-large-instruct
-Search API: Naver API
-Reranker: ko-reranker
-LLM: Gemini 1.5 Flash
-Vector Indexing: FAISS
+*Data Sources: shcard, jeju tourism, naver, Instagram
+*Embedding: intfloat/multilingual-e5-large-instruct
+*Search API: Naver API
+*Reranker: ko-reranker
+*LLM: Gemini 1.5 Flash
+*Vector Indexing: FAISS
 
 <br/>
 
