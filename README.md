@@ -18,3 +18,7 @@
   https://drive.google.com/drive/folders/15V45Zl53nnEa7Rm8VuvK0JFB3-tMW7FT?usp=drive_link
 - data/JEJU_MCT_DATA_modified_v8.csv 파일 또한 용량 제한으로 인해 압축 후 업로드합니다.
 - secrets.toml 파일 생성 후 gemini API와 naver API key, id 정보 입력 필수
+
+> GOOGLE_API_KEY = "발급받은 Google API"
+> CLIENT_ID = "발급받은 네이버 API"
+> CLIENT_SECRET = "발급받은 네이버 API"
