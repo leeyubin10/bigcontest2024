@@ -1,5 +1,6 @@
 # KAIT 주최 및 신한카드 주관 - 2024 빅콘테스트 생성형AI분야
 2024 bigcontest: Generative AI (Team: GPU 0번)
+이유빈, 지유경, 성아영
 
 <br/>
 
